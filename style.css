@@ -1,0 +1,17 @@
+img{
+    width: 50%;
+    height: 25%;
+}
+
+.desp{
+    padding: 15px;
+    text-align: center;
+    width: auto;
+    font-size: 10px;
+}
+.desp i{
+    float:right
+}
+body{
+    background: linear-gradient(rgb(0, 102, 255), rgb(183, 0, 255), rgb(255, 0, 200),rgb(0, 102, 255));
+}
